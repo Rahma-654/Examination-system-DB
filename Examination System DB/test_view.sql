@@ -1,0 +1,12 @@
+SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE';
+SELECT * FROM vw_Users;
+SELECT * FROM vw_StudentsOnly;
+SELECT * FROM Useer;
+SELECT * FROM vw_UsersFromCairo;
+SELECT * FROM vw_StudentGrades;
+SELECT * FROM vw_InstructorCourses;
+SELECT * FROM CourseTracks;
+SELECT * FROM vw_ExamQuestionsAnswers;
+SELECT * FROM vw_ExamCourse;
+SELECT * FROM vw_StudentCourseTrackIntake;
+SELECT * FROM vw_OpenExams;

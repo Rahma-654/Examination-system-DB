@@ -1,0 +1,145 @@
+<?xml version="1.0"?>
+<SqlWorkbenchSqlProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="Examnition_system">
+  <Items>
+    <LogicalFolder Name="Connections" Type="2" Sorted="true">
+      <Items>
+        <ConnectionNode Name="DESKTOP-850INVL:DESKTOP-850INVL\cc">
+          <Created>2025-05-22T09:15:54.6970515+03:00</Created>
+          <Type>SQL</Type>
+          <Server>DESKTOP-850INVL</Server>
+          <UserName />
+          <Authentication>Windows Authentication</Authentication>
+          <InitialDB />
+          <LoginTimeout>30</LoginTimeout>
+          <TrustServerCertificate>False</TrustServerCertificate>
+          <HostNameInServerCertificate />
+          <EncryptionOption>False</EncryptionOption>
+          <ExecutionTimeout>0</ExecutionTimeout>
+          <ConnectionProtocol>NotSpecified</ConnectionProtocol>
+          <ApplicationName>Microsoft SQL Server Management Studio - Query</ApplicationName>
+        </ConnectionNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Queries" Type="0" Sorted="true">
+      <Items>
+        <FileNode Name="AUDIT_TABLE.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-850INVL:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-850INVL</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>AUDIT_TABLE.sql</FullPath>
+        </FileNode>
+        <FileNode Name="creatin_DB.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-850INVL:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-850INVL</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>creatin_DB.sql</FullPath>
+        </FileNode>
+        <FileNode Name="DDL.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-850INVL:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-850INVL</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>DDL.sql</FullPath>
+        </FileNode>
+        <FileNode Name="DML.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-850INVL:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-850INVL</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>DML.sql</FullPath>
+        </FileNode>
+        <FileNode Name="FUNCATION.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-850INVL:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-850INVL</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>FUNCATION.sql</FullPath>
+        </FileNode>
+        <FileNode Name="INDEX.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-850INVL:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-850INVL</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>INDEX.sql</FullPath>
+        </FileNode>
+        <FileNode Name="logins _ Permisions.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-850INVL:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-850INVL</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>logins _ Permisions.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SP_INSTRACTOR.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-850INVL:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-850INVL</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>SP_INSTRACTOR.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SP_MNG_BRANCH.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-850INVL:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-850INVL</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>SP_MNG_BRANCH.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SP_Mng_Dept.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-850INVL:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-850INVL</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>SP_Mng_Dept.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SP_Mng_instructor.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-850INVL:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-850INVL</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>SP_Mng_instructor.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SP_Mng_Intake.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-850INVL:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-850INVL</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>SP_Mng_Intake.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SP_Mng_Student.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-850INVL:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-850INVL</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>SP_Mng_Student.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SP_Mng_track.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-850INVL:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-850INVL</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>SP_Mng_track.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SP_STUDENT.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-850INVL:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-850INVL</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>SP_STUDENT.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SP_System.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-850INVL:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-850INVL</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>SP_System.sql</FullPath>
+        </FileNode>
+        <FileNode Name="test_view.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-850INVL:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-850INVL</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>test_view.sql</FullPath>
+        </FileNode>
+        <FileNode Name="TRRIGGER.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-850INVL:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-850INVL</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>TRRIGGER.sql</FullPath>
+        </FileNode>
+        <FileNode Name="VIEW.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-850INVL:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-850INVL</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>VIEW.sql</FullPath>
+        </FileNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Miscellaneous" Type="3" Sorted="true">
+      <Items />
+    </LogicalFolder>
+  </Items>
+</SqlWorkbenchSqlProject>
