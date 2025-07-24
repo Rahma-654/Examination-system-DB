@@ -1,0 +1,16 @@
+
+1. Login Name: Sara
+   Password: pass123
+   Role: Student
+
+2. Login Name: Ali
+   Password: pass456
+   Role: Instructor
+
+3. Login Name: Hassan
+   Password: pass789
+   Role: Training Manager
+
+4. Login Name: AdminSys
+   Password: Admin123
+   Role: System Administrator (db_owner)
